@@ -21,7 +21,7 @@
     "dev": "NODE_ENV=development node bin/main.js"
   },
   "dependencies": {
-    "craft-ai": "0.0.3",
+    "craft-ai": "0.1.0",
     "lodash": "3.10.1"
   },
   "devDependencies": {
